@@ -1,3 +1,3 @@
 # PhoneApp
 #Android Studio 
-This is phoneapp
+This is a phoneapp
